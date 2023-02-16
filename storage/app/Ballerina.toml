@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "amit_k_idor_5"
+  org = "cloudsecurityoperationscentre"
+  version = "0.1.0"
+
